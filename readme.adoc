@@ -1,0 +1,8 @@
+= Test
+
+
+[plantuml, format="png", id="myDiagram", width="200px"]
+----
+Bob->Alice : hello
+Alice -> Bob : hi
+----
