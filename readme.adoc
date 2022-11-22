@@ -1,7 +1,7 @@
 = Test
 
 
-[plantuml, format="png", id="myDiagram", width="200px"]
+[plantuml]
 ----
 Bob->Alice : hello
 Alice -> Bob : hi
